@@ -12,7 +12,7 @@ $produits = [
 <head>
     <meta charset="UTF-8">
     <title>Catalogue</title>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="boucle.css">
 </head>
 <body>
     <h1>Catalogue de produits</h1>
