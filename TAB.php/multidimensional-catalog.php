@@ -50,7 +50,7 @@ $products = [
 
 <body>
     <h1> Catalogue des produits </h1>
-    <<?php
+    <?php
         // Parcourir le tableau $products pour afficher chaque produit
         foreach ($products as $product) {
             echo "<div class='product'>";
